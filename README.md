@@ -96,19 +96,12 @@
 | **[S3 Storage](https://github.com/manavpatel1310/s3-storage)** | Self-hostable storage manager that connects to S3 / S3-compatible APIs to provide a managed storage solution, with separate client and server apps | TypeScript, AWS S3 |
 | **[FindHome](https://github.com/manavpatel1310/FindHome)** | Real estate platform where agents manage and market listings — public property search, agent dashboards, secure auth, and FileStack-powered photo management on a fully responsive custom UI | JavaScript, Node.js, FileStack |
 | **[Drive Watch System](https://github.com/manavpatel1310/Drive-Watch-System)** | Real-time driver-action monitoring at 30 FPS with a 95% accuracy rate in triggering timely alarms | Python, OpenCV, Keras, CNN, Pygame |
-| **[Ecospace](https://github.com/manavpatel1310/Ecospace)** | Full-stack e-commerce marketplace for eco-friendly products — Flutter mobile app + TypeScript web client on a Python backend | Python, TypeScript, Flutter, Docker, MySQL, PostgreSQL |
 
 ---
 
 ## 📜 Certifications
 
 [![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Certified_Solutions_Architect-Associate-FF9900?logo=amazonwebservices&logoColor=white)](https://www.credly.com/YOUR_BADGE_URL)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manavpatel1310&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">  </p> <p align="center"> <img src="https://img.shields.io/badge/On_GitHub_Since-January_2023-181717?logo=github&logoColor=white&style=for-the-badge" alt="On GitHub since January 2023"> </p>
 
 ---
 
